@@ -12,5 +12,5 @@
 * Implementation Phase:
   * Game Engine: ***[Unity](https://unity.com/)***
   * Language: ***[C#](https://learn.microsoft.com/en-us/dotnet/csharp/)***
+  * 3D Art Creation: ***[Mixamo](https://www.blender.org/)
   * Models: ***[Mixamo](https://www.mixamo.com/)***
-  <!--* Communication: ***[Discord](https://discord.gg/SKTmfVWEtJ)***-->
