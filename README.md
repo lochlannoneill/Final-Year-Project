@@ -14,3 +14,5 @@
   * Language: ***[C#](https://learn.microsoft.com/en-us/dotnet/csharp/)***
   * 3D Art Creation: ***[Blender](https://www.blender.org/)***
   * Models: ***[Mixamo](https://www.mixamo.com/)***
+
+![poster](https://github.com/lochlannoneill/INTR8016-FinalYearProject/blob/main/Research%20Phase/poster.png?raw=true)  
