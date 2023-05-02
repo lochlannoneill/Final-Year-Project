@@ -16,3 +16,5 @@
   * Models: ***[Mixamo](https://www.mixamo.com/)***
 
 ![poster](https://github.com/lochlannoneill/INTR8016-FinalYearProject/blob/main/Research%20Phase/poster.png?raw=true)  
+
+![demo](https://github.com/lochlannoneill/INTR8016-FinalYearProject/blob/main/demo_480p.mp4?raw=true)  
