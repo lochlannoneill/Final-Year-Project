@@ -12,4 +12,5 @@
 * Implementation Phase:
   * Game Engine: ***[Unity](https://unity.com/)***
   * Language: ***[C#](https://learn.microsoft.com/en-us/dotnet/csharp/)***
+  * Models: ***[Mixamo](https://www.mixamo.com/)***
   <!--* Communication: ***[Discord](https://discord.gg/SKTmfVWEtJ)***-->
