@@ -6,7 +6,7 @@
 * **[Lochlann O Neill](https://github.com/lochlannoneill)** `Group Leader`  
 
 ### Background:
-* Project Management: ***[Monday.com](https://lochlannoneill.monday.com/boards/3393883106)***  
+* Project Management: ~~***[Monday.com](https://lochlannoneill.monday.com/boards/3393810677)***~~ ***GitHub Projects***
 * Research Phase:
   * Document: ***[Overleaf](https://www.overleaf.com/project/631c9185df013681e446c601)***
 * Implementation Phase:
