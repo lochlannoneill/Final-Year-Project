@@ -3,7 +3,7 @@
 # Final Year Project
 
 ### Collaborators:
-* **[Lochlann O Neill](https://github.com/lochlannoneill)** `Group Leader`  
+* **[Lochlann O Neill](https://github.com/lochlannoneill)**
 
 ### Background:
 * Project Management: ~~***[Monday.com](https://lochlannoneill.monday.com/boards/3393810677)***~~ ***GitHub Projects***
