@@ -16,9 +16,10 @@
   * Models: ***[Mixamo](https://www.mixamo.com/)***
 * Presentation:
   * Build Demo (Edit): ***[Sony Vegas](https://www.vegascreativesoftware.com/ie/vegas-pro/?AffiliateID=50&phash=1yqXHIJuhlvg4kKM&utm_source=Linkshare&utm_medium=Affiliate&utm_campaign=Affiliate_Linkshare&siteID=PPkX79_c.b0-9K1Mq8iXGe0BlboH4PVIxQ&name=FlexOffers.com)***
-  * Build Demo (Host): ***[YouTube](https://www.youtube.com/)***
+  * Build Demo (Host): ***[YouTube](https://www.youtube.com/watch?v=FLddmNlQsmI)***
   * Poster: ***[Photoshop](https://www.adobe.com/ie/products/photoshop.html)***
-  * Report: ***[Google Drive](https://www.google.com/drive/)***
+  * Report (Edit): ***[Overleaf](https://www.overleaf.com/project/631c9185df013681e446c601)***
+  * Report (Host): ***[Google Drive](https://drive.google.com/file/d/1BhyH0ZYfyij9_DidtuW9Glae_oQekhwR/view?usp=sharing)***
 
 ### Run-time execution:
 ![demo](https://github.com/lochlannoneill/INTR8016-FinalYearProject-Unity/blob/main/Presentation/demo.gif?raw=true)  
