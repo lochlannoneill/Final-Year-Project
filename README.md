@@ -16,7 +16,7 @@
   * Models: ***[Mixamo](https://www.mixamo.com/)***
 * Presentation:
   * Build Demo: ***[YouTube](https://www.youtube.com/watch?v=FLddmNlQsmI)***
-  * Poster: ***[Photoshop]((https://github.com/lochlannoneill/INTR8016-FinalYearProject-Unity/blob/main/Presentation/poster.png)***
+  * Poster: ***[Photoshop](https://github.com/lochlannoneill/INTR8016-FinalYearProject-Unity/blob/main/Presentation/poster.png)***
   * Report: ***[Google Drive](https://drive.google.com/file/d/1BhyH0ZYfyij9_DidtuW9Glae_oQekhwR/view?usp=sharing)***
 
 ### Run-time execution
