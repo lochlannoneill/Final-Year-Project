@@ -29,3 +29,6 @@ https://drive.google.com/file/d/1BhyH0ZYfyij9_DidtuW9Glae_oQekhwR/view?usp=shari
 
 ### Run-time execution
 ![demo](https://github.com/lochlannoneill/INTR8016-FinalYearProject-Unity/blob/main/Presentation/demo.gif?raw=true)  
+
+### Report
+[![report](https://github.com/lochlannoneill/INTR8016-FinalYearProject-Unity/blob/main/Presentation/images_report/report.png?raw=true)](https://drive.google.com/file/d/1BhyH0ZYfyij9_DidtuW9Glae_oQekhwR/view?usp=sharing)  
