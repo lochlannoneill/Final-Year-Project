@@ -15,9 +15,9 @@
   * 3D Art Creation: ***[Blender](https://www.blender.org/)***
   * Models: ***[Mixamo](https://www.mixamo.com/)***
 * Presentation:
-  * Build Demo: ***[Sony Vegas](https://www.youtube.com/watch?v=FLddmNlQsmI)***
-  * Poster: ***[Photoshop](https://github.com/lochlannoneill/INTR8016-FinalYearProject-Unity/blob/main/Presentation/poster.png)***
-  * Report: ***[Google Drive](https://drive.google.com/file/d/1BhyH0ZYfyij9_DidtuW9Glae_oQekhwR/view?usp=sharing)***
+  * Build Demo: ***[Sony Vegas](https://www.vegascreativesoftware.com/ie/vegas-pro/?AffiliateID=50&phash=1yqXHIJuhlvg4kKM&utm_source=Linkshare&utm_medium=Affiliate&utm_campaign=Affiliate_Linkshare&siteID=PPkX79_c.b0-9K1Mq8iXGe0BlboH4PVIxQ&name=FlexOffers.com)***
+  * Poster: ***[Photoshop](https://www.adobe.com/ie/products/photoshop.html)***
+  * Report: ***[Google Drive](https://www.google.com/drive/)***
 
 ### Run-time execution:
 ![demo](https://github.com/lochlannoneill/INTR8016-FinalYearProject-Unity/blob/main/Presentation/demo.gif?raw=true)  
