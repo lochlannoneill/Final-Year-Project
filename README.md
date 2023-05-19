@@ -16,6 +16,7 @@
   * Models: ***[Mixamo](https://www.mixamo.com/)***
 * Presentation:
   * Build Demo: ***[Sony Vegas](https://www.vegascreativesoftware.com/ie/vegas-pro/?AffiliateID=50&phash=1yqXHIJuhlvg4kKM&utm_source=Linkshare&utm_medium=Affiliate&utm_campaign=Affiliate_Linkshare&siteID=PPkX79_c.b0-9K1Mq8iXGe0BlboH4PVIxQ&name=FlexOffers.com)***
+  * Build Demo (Host): ***[YouTube](https://www.youtube.com/)***
   * Poster: ***[Photoshop](https://www.adobe.com/ie/products/photoshop.html)***
   * Report: ***[Google Drive](https://www.google.com/drive/)***
 
