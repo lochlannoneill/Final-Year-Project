@@ -7,8 +7,6 @@
 
 ### Background:
 * Project Management: ~~***[Monday.com](https://lochlannoneill.monday.com/boards/3393810677)***~~ ***GitHub Projects***
-* Research Phase:
-  * Document: ***[Overleaf](https://www.overleaf.com/project/631c9185df013681e446c601)***
 * Implementation:
   * Game Engine: ***[Unity](https://unity.com/)***
   * Language: ***[C#](https://learn.microsoft.com/en-us/dotnet/csharp/)***
@@ -17,7 +15,8 @@
 * Presentation:
   * Build Demo (Edit): ***[Sony Vegas](https://www.vegascreativesoftware.com/ie/vegas-pro/?AffiliateID=50&phash=1yqXHIJuhlvg4kKM&utm_source=Linkshare&utm_medium=Affiliate&utm_campaign=Affiliate_Linkshare&siteID=PPkX79_c.b0-9K1Mq8iXGe0BlboH4PVIxQ&name=FlexOffers.com)***
   * Build Demo (Host): ***[YouTube](https://www.youtube.com/watch?v=FLddmNlQsmI)***
-  * Poster: ***[Photoshop](https://www.adobe.com/ie/products/photoshop.html)***
+  * Poster (Edit): ***[Photoshop](https://www.adobe.com/ie/products/photoshop.html)***
+  * Poster (Host): ***[Goodle Drive](https://drive.google.com/file/d/1sk88DlI9UdWa6x65zPiF8p1fSTGqSWin/view?usp=sharing)***
   * Report (Edit): ***[Overleaf](https://www.overleaf.com/project/631c9185df013681e446c601)***
   * Report (Host): ***[Google Drive](https://drive.google.com/file/d/1BhyH0ZYfyij9_DidtuW9Glae_oQekhwR/view?usp=sharing)***
 
