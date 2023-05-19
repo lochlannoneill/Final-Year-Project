@@ -15,7 +15,7 @@
   * 3D Art Creation: ***[Blender](https://www.blender.org/)***
   * Models: ***[Mixamo](https://www.mixamo.com/)***
 
-### ***[YouTube Demonstration]([https://www.mixamo.com/](https://www.youtube.com/watch?v=FLddmNlQsmI))***
+### YouTube Demonstration
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FLddmNlQsmI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Poster:
