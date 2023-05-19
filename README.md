@@ -15,6 +15,9 @@
   * 3D Art Creation: ***[Blender](https://www.blender.org/)***
   * Models: ***[Mixamo](https://www.mixamo.com/)***
 
+### Report
+https://drive.google.com/file/d/1BhyH0ZYfyij9_DidtuW9Glae_oQekhwR/view?usp=sharing
+
 ### YouTube Demonstration
 [![youtube](https://github.com/lochlannoneill/INTR8016-FinalYearProject-Unity/blob/main/Presentation/images_presentation_implementation/testing.png?raw=true)](https://www.youtube.com/watch?v=FLddmNlQsmI)  
 <!--
