@@ -15,16 +15,20 @@
   * 3D Art Creation: ***[Blender](https://www.blender.org/)***
   * Models: ***[Mixamo](https://www.mixamo.com/)***
 * Presentation:
-  * Build Demo (Edit): ***[Sony Vegas](https://www.vegascreativesoftware.com/ie/vegas-pro/?AffiliateID=50&phash=1yqXHIJuhlvg4kKM&utm_source=Linkshare&utm_medium=Affiliate&utm_campaign=Affiliate_Linkshare&siteID=PPkX79_c.b0-9K1Mq8iXGe0BlboH4PVIxQ&name=FlexOffers.com)***
-  * Build Demo (Host): ***[YouTube](https://www.youtube.com/watch?v=FLddmNlQsmI)***
-  * Poster (Edit): ***[Photoshop](https://www.adobe.com/ie/products/photoshop.html)***
-  * Poster (Host): ***[Goodle Drive](https://drive.google.com/file/d/1sk88DlI9UdWa6x65zPiF8p1fSTGqSWin/view?usp=sharing)***
-  * Report (Edit): ***[Overleaf](https://www.overleaf.com/project/631c9185df013681e446c601)***
-  * Report (Host): ***[Google Drive](https://drive.google.com/file/d/1BhyH0ZYfyij9_DidtuW9Glae_oQekhwR/view?usp=sharing)***
+  * Build Demo:
+    * Edit: [Sony Vegas](https://www.vegascreativesoftware.com/ie/vegas-pro/?AffiliateID=50&phash=1yqXHIJuhlvg4kKM&utm_source=Linkshare&utm_medium=Affiliate&utm_campaign=Affiliate_Linkshare&siteID=PPkX79_c.b0-9K1Mq8iXGe0BlboH4PVIxQ&name=FlexOffers.com)
+    * Host: [YouTube](https://www.youtube.com/watch?v=FLddmNlQsmI)
+  * Poster:
+    * Edit: [Photoshop](https://www.adobe.com/ie/products/photoshop.html)
+    * Host: [Google Drive](https://drive.google.com/file/d/1sk88DlI9UdWa6x65zPiF8p1fSTGqSWin/view?usp=sharing)
+  * Report:
+    * Edit: [Overleaf](https://www.overleaf.com/project/631c9185df013681e446c601)
+    * Host: [Google Drive](https://drive.google.com/file/d/1BhyH0ZYfyij9_DidtuW9Glae_oQekhwR/view?usp=sharing)
+
 
 -----
 
-### Run-time execution:
+### Run-time Execution:
 ![demo](https://github.com/lochlannoneill/INTR8016-FinalYearProject-Unity/blob/main/Presentation/demo.gif?raw=true)  
 
 -----
