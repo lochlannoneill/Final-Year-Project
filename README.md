@@ -8,7 +8,7 @@
 -----
 
 ### Background:
-* Project Management: ~~***[Monday.com](https://lochlannoneill.monday.com/boards/3393810677)***~~ ***GitHub Projects***
+* Project Management: ~~***[Monday.com](https://lochlannoneill.monday.com/boards/3393810677)***~~ ***[GitHub Projects](https://github.com/users/lochlannoneill/projects/3)***
 * Implementation:
   * Game Engine: ***[Unity](https://unity.com/)***
   * Language: ***[C#](https://learn.microsoft.com/en-us/dotnet/csharp/)***
