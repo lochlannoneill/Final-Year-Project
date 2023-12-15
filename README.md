@@ -29,8 +29,7 @@
 
 -----
 
-### YouTube Build Demonstration:
-https://www.youtube.com/watch?v=FLddmNlQsmI&ab_channel=LochlannONeill
+### YouTube Build Demonstration **(*[YouTube](https://www.youtube.com/watch?v=FLddmNlQsmI&ab_channel=LochlannONeill)*)**:
 [![youtube](https://github.com/lochlannoneill/INTR8016-FinalYearProject-Unity/blob/main/Presentation/images_presentation_implementation/testing.png?raw=true)](https://www.youtube.com/watch?v=FLddmNlQsmI)  
 <!--
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FLddmNlQsmI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>   </iframe>
@@ -43,6 +42,5 @@ https://www.youtube.com/watch?v=FLddmNlQsmI&ab_channel=LochlannONeill
 
 -----
 
-### Report
-https://drive.google.com/file/d/1BhyH0ZYfyij9_DidtuW9Glae_oQekhwR/view
+### Report **(*[Google Drive](https://drive.google.com/file/d/1BhyH0ZYfyij9_DidtuW9Glae_oQekhwR/view)*)**:
 [![report](https://github.com/lochlannoneill/INTR8016-FinalYearProject-Unity/blob/main/Presentation/images_report/report.png?raw=true)](https://drive.google.com/file/d/1BhyH0ZYfyij9_DidtuW9Glae_oQekhwR/view?usp=sharing)  
